@@ -10,7 +10,7 @@ Exploratory data analysis and modifying original dataset from [kaggle](https://w
 can be found [here](Modifying_dataset.ipynb).<br>
 Further modifications and corrections to the new dataset were done in actual analysis.
 ## Detailed Analysis, Partial Results and Ablation ##
-Detailed introduction, goals of the study and step by step analysis can be found [here](Analysis,ipynb).
+Detailed introduction, goals of the study and step by step analysis can be found [here](Analysis.ipynb).
 Contains also reflections for each month, which was analyzed as a part of the study.
 ## Conclusion ##
-Furthermore, conclusion in main points is also contained in [Conclusion.pdf](Conclusion.pdf)file.
+Furthermore, conclusion in main points is also contained in [Observations_and_Conclusion.pdf](Observations_and_Conclusion.pdf) file.
